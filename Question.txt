@@ -1,0 +1,3 @@
+Q) Take 2 input numbers and print the addition result
+Eg: I/P 3 5
+    O/P 8
